@@ -20,7 +20,7 @@
 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis" height="40px" style="vertical-align: middle;">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="RabbitMQ" alt="RabbitMQ" height="40px" style="vertical-align: middle;">
-  <img src="https://docs.celeryq.dev/en/stable/_images/celery-logo.png" title="Celery" alt="Celery" height="40px" style="vertical-align: middle;">
+
 
 </div>
 
