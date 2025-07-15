@@ -19,9 +19,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg' title='Selenium' alt='Selenium' height='40px' style="vertical-align: middle;">
 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis" height="40px" style="vertical-align: middle;">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="RabbitMQ" alt="RabbitMQ" height="40px" style="vertical-align: middle;">
-
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/512px-RabbitMQ_logo.svg.png" title="RabbitMQ" alt="RabbitMQ" height="40px" style="vertical-align: middle;">&nbsp;
 </div>
 
 
